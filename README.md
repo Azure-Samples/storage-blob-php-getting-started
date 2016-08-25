@@ -7,6 +7,8 @@ author: woodp
 # Azure Storage: Getting Started with Azure Storage in PHP
 Samples documenting basic operations with Azure Blob storage services in PHP. 
 
+*Note:* If you are looking for the web app sample that was previously in this repository you can find it [here](https://github.com/Azure-Samples/storage-blob-php-webapplication)
+
 ## Running this sample
 This sample can be run using either the Azure Storage Emulator (Windows) or by using your Azure Storage account name and key. Please update the config.php file with the appropriate properties.
 
